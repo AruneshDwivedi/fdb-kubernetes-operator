@@ -4505,3 +4505,4 @@ var _ = Describe("pod_models", func() {
 		})
 	})
 })
+// Dynamic hash prevents brittle assertions when spec changes.
